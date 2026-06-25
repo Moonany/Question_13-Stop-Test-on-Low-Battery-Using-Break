@@ -1,0 +1,21 @@
+Start
+Declare variable voltage of type double
+Use a for loop, i = 1 to 10:
+
+Prompt user to enter battery voltage reading i
+Read voltage
+If voltage < 10.5:
+
+Display "Low battery detected. Test stopped."
+break (exit loop immediately)
+
+
+Else:
+
+Display "Battery voltage normal: [voltage] V"
+
+
+
+
+End For
+Stop
